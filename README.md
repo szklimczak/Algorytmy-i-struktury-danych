@@ -1,6 +1,10 @@
 # Algorytmy-i-struktury-danych
-Rozwiązania zadań z przedmiotu Algorytmy i struktury danych 
+Kody napisane w języku Python realizowane w trakcie przedmiotu Algorytmy i struktury danych 
 
 ## Lab 1
-- Implementacje macierzy w Pythonie
+- Implementacja macierzy w Pythonie
 - Liczenie wyznacznika macierzy metodą Chio
+
+## Lab 2
+- Implementacja listy wiązanej
+- Implementacja dwukierunkowej listy wiązanej
