@@ -1,4 +1,4 @@
-# Algorytmy-i-struktury-danych
+# Algorytmy i struktury danych
 Kody napisane w języku Python realizowane w trakcie przedmiotu Algorytmy i struktury danych 
 
 ### Lab 1
