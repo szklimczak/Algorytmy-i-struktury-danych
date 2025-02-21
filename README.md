@@ -11,3 +11,6 @@ Kody napisane w języku Python realizowane w trakcie przedmiotu Algorytmy i stru
 
 ### Lab 3
 - Implementacja kolejki na tablicy (cyklicznej)
+
+### Lab 4
+- Implementacja tablicy mieszającej
