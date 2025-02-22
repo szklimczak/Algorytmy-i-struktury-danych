@@ -14,3 +14,6 @@ Kody napisane w języku Python realizowane w trakcie przedmiotu Algorytmy i stru
 
 ### Lab 4
 - Implementacja tablicy mieszającej
+
+### Lab 5
+- Implementacja drzewa binarnego
