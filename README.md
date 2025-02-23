@@ -20,3 +20,7 @@ Kody napisane w języku Python realizowane w trakcie przedmiotu Algorytmy i stru
 
 ### Lab 6
 - Kopcowa implementacja kolejki priorytetowej
+
+### Lab 7
+- Sortowanie przez kopcowanie oraz wybieranie
+- Sortowanie metodą Shella
