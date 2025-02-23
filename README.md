@@ -24,3 +24,7 @@ Kody napisane w języku Python realizowane w trakcie przedmiotu Algorytmy i stru
 ### Lab 7
 - Sortowanie przez kopcowanie oraz wybieranie
 - Sortowanie metodą Shella
+
+### Lab 8
+- Klasyczna implementacja grafu
+- Kolorowanie grafu
