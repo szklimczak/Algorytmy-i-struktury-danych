@@ -31,3 +31,6 @@ Kody napisane w języku Python realizowane w trakcie przedmiotu Algorytmy i stru
 
 ### Lab 9
 - Problem maksymalnego przepływu - metoda Forda-Fulkersona
+
+### Lab 10
+- Minimalne drzewo rozpinające - Algorytm Prima
