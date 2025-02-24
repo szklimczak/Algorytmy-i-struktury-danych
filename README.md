@@ -28,3 +28,6 @@ Kody napisane w języku Python realizowane w trakcie przedmiotu Algorytmy i stru
 ### Lab 8
 - Klasyczna implementacja grafu
 - Kolorowanie grafu
+
+### Lab 9
+- Problem maksymalnego przepływu - metoda Forda-Fulkersona
