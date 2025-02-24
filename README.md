@@ -34,3 +34,6 @@ Kody napisane w języku Python realizowane w trakcie przedmiotu Algorytmy i stru
 
 ### Lab 10
 - Minimalne drzewo rozpinające - Algorytm Prima
+
+### Lab 11
+- Problem dopasowania grafów - algorytm Ullmana
