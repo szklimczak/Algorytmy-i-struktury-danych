@@ -40,3 +40,6 @@ Kody napisane w języku Python realizowane w trakcie przedmiotu Algorytmy i stru
 
 ### Lab 12
 - Wyszukanie/Dopasowanie wzorca
+
+### Lab 13
+- Programowanie dynamiczne - aplikacje tekstowe
