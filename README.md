@@ -43,3 +43,6 @@ Kody napisane w języku Python realizowane w trakcie przedmiotu Algorytmy i stru
 
 ### Lab 13
 - Programowanie dynamiczne - aplikacje tekstowe
+
+### Lab 14
+- Wyznaczenie otoczki wypukłej
